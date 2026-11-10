@@ -1,0 +1,9 @@
+site_name: Card Game
+site_url: https://uiwjudj.github.io/streamlit-practice/
+theme:
+  name: mkdocs
+nav:
+  - Home: index.md
+  - About: about.md
+  - High and Low Game: howtouse/high_and_low.md
+repo_url: https://github.com/uiwjudj/streamlit-practice
